@@ -20,7 +20,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Examples
 
-- [ai/size-limit](https://www.w3schools.com/js/default.asp - JS HOME#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://www.w3schools.com/js/default.asp#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
