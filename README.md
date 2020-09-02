@@ -1,15 +1,3 @@
-https://www.w3schools.com/js/js_intro.asp - JS Introduction
-https://www.w3schools.com/js/js_whereto.asp - JS Where to
-https://www.w3schools.com/js/js_output.asp - JS Output
-https://www.w3schools.com/js/js_statements.asp - JS Statements
-https://www.w3schools.com/js/js_syntax.asp - JS Syntax
-https://www.w3schools.com/js/js_comments.asp - JS Comments
-https://www.w3schools.com/js/js_variables.asp - JS Variables
-https://www.w3schools.com/js/js_operators.asp - JS Operators
-https://www.w3schools.com/js/js_arithmetic.asp - JS Arithmetic
-https://www.w3schools.com/js/js_assignment.asp - JS Assigment
-https://www.w3schools.com/js/js_datatypes.asp - JS Data Types
-
 <img src="icon.png" align="right" />
 
 # Javascript-Introduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
@@ -18,17 +6,22 @@ https://www.w3schools.com/js/js_datatypes.asp - JS Data Types
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-## Examples
+## Dokumentasi Javascript Introduction
 
-- [ai/size-limit](https://www.w3schools.com/js/default.asp#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+- [JS Introduction](https://www.w3schools.com/js/default.asp#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [JS Where to](https://www.w3schools.com/js/js_whereto.asp#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+- [JS Output](https://www.w3schools.com/js/js_output.asp#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+- [JS Statements](https://www.w3schools.com/js/js_statements.asp#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [JS Syntax](https://www.w3schools.com/js/js_syntax.asp#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [JS Comments](https://www.w3schools.com/js/js_comments.asp#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
+- [JS Variables](https://www.w3schools.com/js/js_variables.asp#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+- [JS Operators](https://www.w3schools.com/js/js_operators.asp#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+- [JS Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [JS Assigment](https://www.w3schools.com/js/js_assignment.asp#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [JS Data Types(https://www.w3schools.com/js/js_datatypes.asp#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
+- [JS Variables](https://www.w3schools.com/js/js_intro.asp#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
 
-## Articles
+## Artikel lain
 
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - _Stephen Whitmore_
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - _Caleb Thompson (thoughtbot)_
