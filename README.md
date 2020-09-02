@@ -22,8 +22,5 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 ## Artikel lain
 
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - _Stephen Whitmore_
-- ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - _Caleb Thompson (thoughtbot)_
-- ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - _Tom Preston-Werner_
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - _Adam Stacoviak_
-- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - _KyuWoo Choi_
+- ["Javasccript Introduction"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B7587E37B-696B-4AD3-9B66-3413EC82A4D1%7D&file=Javascript%20-%20Introduction.pptx&action=edit&mobileredirect=true) - _Self Taught_
 
