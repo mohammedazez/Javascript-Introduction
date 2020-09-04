@@ -22,5 +22,6 @@ javascript Introduction mengenal javascript dari syntax, comment, variable, oper
 ## Artikel lain
 
 - ["Belajar Pemrograman Javascript"](https://www.petanikode.com/tutorial/javascript/) - _Petani Kode_
+- ["Referensi Belajar Pengembangan Aplikasi dengan JavaScript"](https://medium.com/javascript-indonesia-community/referensi-belajar-pengembangan-app-dengan-javascript-2b0c071d3262) - _Petani Kode_
 - ["Javasccript Introduction"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B7587E37B-696B-4AD3-9B66-3413EC82A4D1%7D&file=Javascript%20-%20Introduction.pptx&action=edit&mobileredirect=true) - _Self Taught_
 
